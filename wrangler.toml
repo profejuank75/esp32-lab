@@ -1,0 +1,5 @@
+# Configuracion de Cloudflare Pages para ESP32Lab 3D.
+# No modifica el codigo ni la logica del simulador.
+name = "esp32-lab"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-11-18"
