@@ -1,0 +1,8 @@
+{
+  "name": "ESP32 3D Lab - NodeMCU DevKit V1",
+  "description": "Laboratorio 3D interactivo en Three.js y React para la placa ESP32 NodeMCU DevKit V1 de 38 pines con despiece explosionado, tooltips 3D de pines, osciloscopio D3 y circuitos I2C y analógicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
